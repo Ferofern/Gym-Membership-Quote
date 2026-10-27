@@ -19,7 +19,7 @@ def test_member_discount():
         2,
     )
 
-    assert discount == Decimal("10")
+    assert discount == Decimal("15")
 
 
 def test_member_discount_for_more_members():

@@ -24,6 +24,11 @@ PREMIUM_EXTRAS = {
 class GymMembership:
     """Calculate gym membership quotes."""
 
+    #DEVELOPER 1
+    # R1. The user chooses one plan from the table. Any other plan is invalid.
+    
+
+
     # DEVELOPER 2
 
     # R4 - Group discount. With 2 or more members, the subtotal gets a 10% discount.
